@@ -1,12 +1,18 @@
 #include<stdio.h>
-int main;
+int main()
 {
   int n=9898;
-char user=dinesh;
+char user=98;
+
+  if(n==9898 && user==98)
 {
-  if(n==9898 && user==dinesh)
 printf("the login successfully");
+}
 else
+{
 printf("the user name is in valid");
+}
 return 0;
 }
+pink
+pinks
